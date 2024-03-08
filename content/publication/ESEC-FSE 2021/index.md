@@ -1,13 +1,12 @@
 ---
-title: "Xi commandments of kubernetes security: A systematization of knowledge related to kubernetes security practices"
+title: "Mitigating security attacks in kubernetes manifests for security best practices violation"
 authors:
 - admin
-- Farzana Ahamed Bhuiyan
-- Akond Rahman
+
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2020-09-01T00:00:00Z"
+date: "2021-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +18,7 @@ publishDate: "2020-06-01T00:00:00Z"
 publication_types: ["conference"]
 
 # Publication name and optional abbreviated pu*Journal of Source Themes, 1*(1)blication name.
-publication: "2020 IEEE Secure Development (SecDev)"
+publication: "Proceedings of the 29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering"
 publication_short: ""
 
 abstract: Kubernetes is an open-source softwarefor automating management of computerized services. Organizations, such as IBM, Capital One and Adidas use Kubernetes to deploy and manage their containers, and have reported benefits related to deployment frequency. Despite reported benefits, Kubernetes deployments are susceptible to security vulnerabilities, such as those that occurred at Tesla in 2018. A systematization of Kubernetes security practices can help practitioners mitigate vulnerabilities in their Kubernetes deployments. The goal of this paper is to help practitioners in securing their Kubernetes installations through a systematization of knowledge related to Kubernetes security practices. We systematize knowledge by applying qualitative analysis on 104 Internet artifacts. We identify 11 security practices that include (i) implementation of role-based access control (RBAC) authorization to provide least privilege, (ii) applying security patches to keep Kubernetes updated, and (iii) implementing pod and network specific security policies.
@@ -34,7 +33,7 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2006.15275.pdf
+# url_pdf: https://arxiv.org/pdf/2006.15275.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: ''
 # url_poster: ''
