@@ -19,7 +19,7 @@ publishDate: "2023-06-01T00:00:00Z"
 publication_types: ["Journal"]
 
 # Publication name and optional abbreviated pu*Journal of Source Themes, 1*(1)blication name.
-publication: "ACM Transactions on Computer Education"
+publication: "ACM Transactions on Computer Education (submitted)"
 publication_short: ""
 
 #abstract: 
