@@ -29,6 +29,7 @@ Advisees
 
 Collaborators
 ======
-1. Hanyang Hu, Tech Lead, Wind River Inc, [Web] (https://www.linkedin.com/in/hyhu/)
-2. Justin Cappos, Professor, Newyork University, USA [Web](https://ssl.engineering.nyu.edu/personalpages/jcappos/)
-3. Rasel Mahmud, Assistant Professor, Kennesaw State University, USA 
+1. Hanyang Hu, Tech Lead, Wind River Inc, [Web](https://www.linkedin.com/in/hyhu/)
+2. Dr. Justin Cappos, Professor, New York University, USA [Web](https://ssl.engineering.nyu.edu/personalpages/jcappos/)
+3. Rasel Mahmud, Assistant Professor, Kennesaw State University, USA [web](https://www.kennesaw.edu/ccse/labs/xrei-lab.php)
+4. Amiangshu Bosu, Associate Professor, Wayne State University, USA [Web](https://engineering.wayne.edu/profile/ej4755)
